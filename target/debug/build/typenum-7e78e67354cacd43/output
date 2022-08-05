@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/username/ftrade-employee-cw/target/debug/build/typenum-7e78e67354cacd43/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/home/username/ftrade-employee-cw/target/debug/build/typenum-7e78e67354cacd43/out/op.rs
